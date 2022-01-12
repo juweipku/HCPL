@@ -4,7 +4,7 @@ This is an implementation of the HCPL model for Semi-supervised Node Classificat
 
 # Data
 
-The 'Coauthor CS' dataset is too large to push to the github repository. You can download it from url[] and place it in the `data/` directory like the other datasets.
+The 'Coauthor CS' dataset is too large to push to the github repository. You can download and place it in the `data/` directory like the other datasets.
 
 # Usage
 
